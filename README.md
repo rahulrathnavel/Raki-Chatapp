@@ -1,5 +1,11 @@
 # Raki-Chatapp
+## Tech Stack
 
+![Kotlin](https://img.shields.io/badge/KOTLIN-1.9.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Backend](https://img.shields.io/badge/BACKEND-FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![UI](https://img.shields.io/badge/UI-JETPACK%20COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![License](https://img.shields.io/badge/LICENSE-MIT-007EC6?style=for-the-badge)
 Raki-Chatapp is a native Android chat application built with Kotlin and Jetpack Compose.  
 It demonstrates Firebase-based authentication and real-time messaging using a simple, maintainable architecture.
 
